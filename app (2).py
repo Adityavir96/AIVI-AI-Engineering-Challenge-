@@ -4,7 +4,7 @@ import re
 import time
 from typing import List, Literal
 
-import fitz
+import pymupdf as fitz
 import streamlit as st
 import pytesseract
 from PIL import Image
