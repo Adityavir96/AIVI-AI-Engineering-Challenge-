@@ -1,0 +1,15 @@
+{
+    "match_score": 72,
+    "top_strengths": [
+        "Python programming",
+        "SQL and database management",
+        "Git version control",
+        "Frontend web development (React, JavaScript)"
+    ],
+    "missing_skills": [
+        "REST API development",
+        "Django or Flask framework experience"
+    ],
+    "summary": "The candidate demonstrates a solid foundation in Python, SQL, and front-end technologies suitable for an entry-level role.\nHowever, they currently lack documented experience with REST API development and Python web frameworks like Django or Flask.",
+    "confidence": "high"
+}

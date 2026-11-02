@@ -1,0 +1,45 @@
+{
+  "type": "OBJECT",
+  "properties": {
+    "match_score": {
+      "type": "INTEGER"
+    },
+    "top_strengths": {
+      "type": "ARRAY",
+      "items": {
+        "type": "STRING"
+      }
+    },
+    "missing_skills": {
+      "type": "ARRAY",
+      "items": {
+        "type": "STRING"
+      }
+    },
+    "summary": {
+      "type": "STRING"
+    },
+    "confidence": {
+      "type": "STRING",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    }
+  },
+  "required": [
+    "match_score",
+    "top_strengths",
+    "missing_skills",
+    "summary",
+    "confidence"
+  ],
+  "propertyOrdering": [
+    "match_score",
+    "top_strengths",
+    "missing_skills",
+    "summary",
+    "confidence"
+  ]
+}

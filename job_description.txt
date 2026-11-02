@@ -1,0 +1,19 @@
+Job Title: Junior Python Developer
+
+Required Skills:
+- Python programming
+- SQL and database management
+- REST API development
+- Git and GitHub
+- Problem-solving
+
+Preferred Skills:
+- Django or Flask
+- React
+- Node.js
+
+Experience:
+Freshers can apply.
+
+Education:
+Bachelor's degree in Computer Science or related field.
